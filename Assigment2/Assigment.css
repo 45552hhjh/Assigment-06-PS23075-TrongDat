@@ -1,0 +1,42 @@
+.head
+{
+    font-size: larger;
+    font-style:unset;
+    text-align: center;
+    background-color: rgb(83, 83, 206);
+}
+.menu>ul>li>a
+{
+    background-color:#F4D786;
+    text-decoration: none;
+    font-variant: small-caps;
+    font-size: large;
+    color: red;
+    padding: 0px 10px;
+    line-height: 40px;
+}
+.menu>ul>li>a:hover
+{
+   color: aqua;
+}
+.menu:hover
+{
+ color: aquamarine;
+}
+.menu
+{
+    font-style: Courier;
+}
+.menu>ul>li>a
+{
+    text-decoration: none;
+    font-variant: small-caps;
+    font-size: large;
+    color: white;
+    padding: 0px 10px;
+    line-height: 40px;
+}
+.menu ul ul 
+{
+    position:absolute;
+}
